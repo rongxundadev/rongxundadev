@@ -1,0 +1,59 @@
+# app-ads.txt for Beijing Rongxunda Consulting Services Co., Ltd.
+# This file is used for advertising verification purposes.
+# Last Updated: June 9, 2026
+
+# For AdMob/Google AdSense
+# Please add your AdMob publisher ID here
+google.com, pub-XXXXXXXXXXXXXXXX, DIRECT
+
+# For Facebook Audience Network
+# Please add your Facebook Audience Network placement ID here
+facebook.com, XXXXXXXXXXXXXXXXXX, DIRECT
+
+# For Unity Ads
+# Please add your Unity Ads Game ID here
+unity3d.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For AppLovin
+# Please add your AppLovin SDK Key here
+applovin.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For IronSource
+# Please add your IronSource App ID here
+ironsrc.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For Vungle
+# Please add your Vungle Application ID here
+vungle.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For Pangle
+# Please add your Pangle App ID here
+pangle.io, XXXXXXXXXXXXXXXX, DIRECT
+
+# For Amazon Ads
+# Please add your Amazon Publisher ID here
+amazon-adsystem.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For MoPub
+# Please add your MoPub Publisher ID here
+mopub.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For Mintegral
+# Please add your Mintegral App ID here
+mintegral.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For Chartboost
+# Please add your Chartboost App ID here
+chartboost.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For Liftoff
+# Please add your Liftoff App ID here
+liftoff.io, XXXXXXXXXXXXXXXX, DIRECT
+
+# For HyprMX
+# Please add your HyprMX Publisher ID here
+hyprmx.com, XXXXXXXXXXXXXXXX, DIRECT
+
+# For Ogury
+# Please add your Ogury Publisher ID here
+ogury.com, XXXXXXXXXXXXXXXX, DIRECT
